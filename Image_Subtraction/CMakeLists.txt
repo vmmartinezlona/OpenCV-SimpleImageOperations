@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( Image_Subtraction )
+find_package( OpenCV REQUIRED )
+add_executable( Image_Subtraction Image_Subtraction.cpp )
+target_link_libraries( Image_Subtraction ${OpenCV_LIBS} )

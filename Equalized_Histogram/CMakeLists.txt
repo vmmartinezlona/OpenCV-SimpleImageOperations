@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 2.8)
-project( Equalized_Histogram )
-find_package( OpenCV REQUIRED )
-add_executable( Equalized_Histogram Equalized_Histogram.cpp )
-target_link_libraries( Equalized_Histogram ${OpenCV_LIBS} )

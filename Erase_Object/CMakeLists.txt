@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 2.8)
-project( Erase_Object )
-find_package( OpenCV REQUIRED )
-add_executable( Erase_Object Erase_Object.cpp )
-target_link_libraries( Erase_Object ${OpenCV_LIBS} )

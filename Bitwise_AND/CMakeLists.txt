@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 2.8)
-project( Bitwise_AND )
-find_package( OpenCV REQUIRED )
-add_executable( Bitwise_AND Bitwise_AND.cpp )
-target_link_libraries( Bitwise_AND ${OpenCV_LIBS} )

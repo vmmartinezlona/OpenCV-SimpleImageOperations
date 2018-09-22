@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 2.8)
-project( BasicOp )
-find_package( OpenCV REQUIRED )
-add_executable( BasicOp BasicOp.cpp )
-target_link_libraries( BasicOp ${OpenCV_LIBS} )

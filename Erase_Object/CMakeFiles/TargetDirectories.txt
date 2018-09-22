@@ -1,3 +1,0 @@
-/home/tsukimo/Documents/Vision/Erase_Object/CMakeFiles/edit_cache.dir
-/home/tsukimo/Documents/Vision/Erase_Object/CMakeFiles/rebuild_cache.dir
-/home/tsukimo/Documents/Vision/Erase_Object/CMakeFiles/Erase_Object.dir
